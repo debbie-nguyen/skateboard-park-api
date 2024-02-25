@@ -69,3 +69,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
     }
 
 ```
+
+**UML Sequence Diagram**
+<img width="728" alt="Screenshot 2024-02-24 at 3 57 20 PM" src="https://github.com/debbie-nguyen/skateboard-park-api/assets/93893043/0ed3d7c0-c25a-47bf-801b-a7e8ab8ef5cd">
+
+
